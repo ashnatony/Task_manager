@@ -59,9 +59,6 @@ Built with **Golang**, **Fiber**, and **PostgreSQL**, this RESTful API supports 
 | PUT    | `/api/tasks/:id` | Update an existing task       |
 | DELETE | `/api/tasks/:id` | Delete a task                 |
 
-> 🔐 Auth required:  
-> Include `Authorization: Bearer <JWT>` in headers
-
 ---
 
 ## 🔧 Project Structure
